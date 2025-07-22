@@ -1,7 +1,7 @@
 ## Hi there my name is Hunter Melrose.
 
-- 🔭 I’m currently working many projects taught by the TripleTen software engineering course and am about halfway through.
-- 🌱 I’m currently learning Javascript and React.js.
+- 🔭 I’m currently working many projects taught by the TripleTen software engineering course and I am almost done!
+- 🌱 I’m currently learning backend datadases and api's.
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with finding a job.
 - 💬 Ask me about anything!
