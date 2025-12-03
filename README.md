@@ -36,7 +36,7 @@ I'm enhancing my software engineering skills through TripleTen's program, focusi
 
 ## 📊 GitHub Stats
 
-![Hunter's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huntermelrose831&show_icons=true&theme=dark)
+![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntermelrose831&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huntermelrose831&layout=compact&theme=dark)
 
