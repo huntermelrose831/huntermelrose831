@@ -1,22 +1,52 @@
-# 👋 Hi, I'm Hunter Melrose
+Hi, I'm Hunter Melrose
 
-## 💻 Software Engineering Student | 🦅 Eagle Scout | 🛠️ Technical Problem Solver
+## Full-Stack Software Engineer | React & Node.js Specialist | Eagle Scout 🦅
 
-I'm a motivated and adaptable professional based in Santa Cruz, California, with a passion for software engineering. Currently studying online with a focus on modern web technologies.
+Passionate software engineer with hands-on experience building production applications, leading development teams, and solving complex technical challenges. Based in Santa Cruz, California.
 
-## 🚀 Skills
+##  What I Build
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+I specialize in creating full-stack web applications with modern JavaScript technologies. My recent work includes:
 
-## 📚 Currently Learning
+- **Enterprise SaaS platforms** with multi-account management and team collaboration
+- **Marketing automation tools** leveraging web scraping and CRM systems
+- **Business websites** with automated workflows and responsive design
+- **Team leadership** managing 9 developers through sprint planning and code reviews
 
-I'm enhancing my software engineering skills through TripleTen's program, focusing on building full-stack web applications and expanding my technical toolkit.
+## 💻 Tech Stack
+
+**Frontend:** React, React Native, TypeScript, Next.js, Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Express, GraphQL, Keystone.js, REST APIs  
+**Databases:** MongoDB, MySQL, SQLite, Supabase  
+**DevOps & Tools:** Git, Jira, Digital Ocean, Google Cloud, Electron, Puppeteer  
+**AI/ML:** Ollama, Hugging Face, ComfyUI, Claude API  
+**Other:** Stripe Integration, OAuth, Socket.io, Web Scraping, Automated Testing
+
+## 🔥 Featured Projects
+
+### [TurboDM.pro](https://github.com/huntermelrose831/turbodm) - Instagram Marketing Automation
+Cross-platform desktop application for lead generation and DM automation with enterprise features
+- Built with Electron, React 19, and Node.js
+- Intelligent web scraping with Puppeteer and proxy rotation
+- Real-time CRM with Socket.io and automated workflows
+- Multi-account management with role-based permissions
+
+### [TripleTen Partner Pipeline](https://github.com/huntermelrose831/tripleten-pipeline) - Waitlist Management System
+Led team of 9 developers building externship management platform
+- Architected CSV import system with validation and error handling
+- Implemented GraphQL CRUD operations with Keystone.js
+- Conducted code reviews and mentored junior developers
+
+### [The Can Buddy](https://github.com/huntermelrose831/can-buddy) - Service Business Platform
+Full-stack website for trash can cleaning service with automated customer management
+- Responsive React 18 app with TypeScript and Tailwind
+- Custom animations with Framer Motion
+- Automated email system using Nodemailer
 
 ## 💼 Professional Background
+-**Valet** at Precision Parking (2025- present)
+  -Coordinated efficient vehicle management for 50+ guests daily at high-volume luxury resort, ensuring seamless check-in/check-out experience
+  -Maintained 100% accuracy in vehicle tracking and personal belongings management through systematic organization and attention to detail
 
 - **Beer Technician** at Draft Professionals (2021-2022)
   - Independently managed route logistics and technical maintenance
@@ -27,7 +57,7 @@ I'm enhancing my software engineering skills through TripleTen's program, focusi
 ## 🏆 Achievements
 
 - Eagle Scout, Boy Scouts of America
-- Proven track record of reliability and performing under pressure
+  - Proven track record of reliability and performing under pressure
 
 ## 📫 Connect with Me
 
